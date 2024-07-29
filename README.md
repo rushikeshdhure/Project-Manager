@@ -18,10 +18,10 @@ MyProject is a Django application designed to manage user registration, client r
 
 #Setup Instructions
 
-#1. Clone the Repository
-#2. Create a Virtual Environment and activate the Virtual Environment
-#3. Install the Required Packages
-#4. Configure the Database in settings.py
-#5. Make Migrations and Migrate it
-#6. Run the Server
+- Clone the Repository
+- Create a Virtual Environment and activate the Virtual Environment
+- Install the Required Packages
+- Configure the Database in settings.py
+- Make Migrations and Migrate it
+- Run the Server
 
